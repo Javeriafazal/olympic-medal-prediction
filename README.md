@@ -20,4 +20,4 @@ It predicts the number of medals a country will win based on features like the n
 1. Open the notebook in **Google Colab**
 2. Run all cells to reproduce results
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Javeriafazal/olympic-medal-prediction/blob/main/medal_prediction.ipynb)
+[![View Notebook](https://img.shields.io/badge/Open%20in%20GitHub-181717?logo=github)](https://github.com/Javeriafazal/olympic-medal-prediction/blob/main/Medal_prediction.ipynb)
